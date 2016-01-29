@@ -1,0 +1,2 @@
+user: mongod
+group: mongod
