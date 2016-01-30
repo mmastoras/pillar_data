@@ -1,7 +1,7 @@
 user:
   prod-salt:
     api_token: c2a6ab8aa292b6f3645463c129913c1b
-    password: dvRjA)?mL2!vDEc
+    password: XXXXXXXXXXXX
 url: https://jenkins.symphony.com:8443
 sfe_jobs:
   - SFE-CONSOLIDATED-BAML
